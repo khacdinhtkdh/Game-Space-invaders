@@ -233,4 +233,4 @@ while True:
         else:
             break
 
-wn.bye()
+print("end game")
