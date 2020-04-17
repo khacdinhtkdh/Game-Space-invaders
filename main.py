@@ -232,3 +232,5 @@ while True:
             continue
         else:
             break
+
+wn.bye()
